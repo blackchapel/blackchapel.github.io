@@ -7,9 +7,9 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "/files/cv.pdf"
   label : "Download Resume"
-
+  
 # Is this the primary user of the site?
 superuser: true
 
