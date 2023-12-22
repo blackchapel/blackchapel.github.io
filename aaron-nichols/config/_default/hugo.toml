@@ -26,7 +26,7 @@ disqusShortname = "themefisher-template" # we use disqus to show comments in blo
 ############################
 
 # Name of Academia theme folder in `themes/`.
-theme = "adn-website-2"
+theme = "vidhitapai.github.io "
 
 # Get last modified date for content from Git?
 enableGitInfo = false
