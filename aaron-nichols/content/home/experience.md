@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+subtitle = "At Boston University"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,36 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Instructor - Marketing Research (MK447)"
+  company = "Boston University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Boston"
+  date_start = "2022-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Summer '22, Level: Undergraduate,
+  Earned highest possible (5.0/5.0) instructor and course evaluation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Course Assistant - Ethical Leadership in the Global Economy (MG730)"
+  company = "Boston University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Boston"
+  date_start = "2020-01-01"
+  date_end = "2023-01-01"
+  description = """
+   Fall '20 & '21; Spring, Summer, & Fall '23, Level: MBA, Instructor: Professor Nina Mazar
+  Responsibilities include:
+  
+  * Grading
+  * Tracking participation
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University Y"
+  title = "Teaching Assistant - Marketing Research (MK447)"
+  company = "Boston University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Boston"
+  date_start = "2022-01-01"
+  date_end = "2022-06-30"
+  description = """
+  Spring '22, Level: Undergraduate, Instructor: Professor Daniella Kupor,
+  Responsibilities include:
+  
+  * Grading
+  * Tracking participation
+  """
   
 +++
