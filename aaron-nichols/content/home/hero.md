@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "AaronNichols_BU_Headshot2.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,8 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## **Hey**, I’m **Aaron Nichols**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+PhD Candidate in Marketing \
+Questrom School of Business, Boston University \
+ORC-ID: 0000-0003-2536-5850
