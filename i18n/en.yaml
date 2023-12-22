@@ -205,18 +205,18 @@
 # Error 404
 
 - id: page_not_found
-  translation: Page not found
+  translation: 404Page not found
 
-- id: 404_recommendations
-  translation: Perhaps you were looking for one of these?
+# - id: 404_recommendations
+#   translation: Perhaps you were looking for one of these?
 
-# Cookie consent
+# # Cookie consent
 
-- id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+# - id: cookie_message
+#   translation: This website uses cookies to ensure you get the best experience on our website.
 
-- id: cookie_dismiss
-  translation: Got it!
+# - id: cookie_dismiss
+#   translation: Got it!
 
-- id: cookie_learn
-  translation: Learn more
+# - id: cookie_learn
+#   translation: Learn more
