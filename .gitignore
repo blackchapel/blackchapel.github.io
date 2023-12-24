@@ -24,3 +24,6 @@ jsconfig.json
 hugo_stats.json
 go.sum
 yarn.lock
+
+docs
+./aaron-nichols/docs
