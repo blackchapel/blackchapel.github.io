@@ -61,7 +61,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: .aaron-nicols/public
+          path: ./aaron-nicols/public
 
   # Deployment job
   deploy:
